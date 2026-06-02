@@ -20,8 +20,9 @@ An end-to-end machine learning web application that predicts a student's **math 
 <img width="901" height="572" alt="Image" src="https://github.com/user-attachments/assets/7462edfb-8e2f-46ff-bbaf-01ae7b596ec2" />
 
 ### Prediction Result
-![Prediction Result 1](screenshots/home1.png)
-![Prediction Result 2](screenshots/home2.png)
+<img width="947" height="769" alt="Image" src="https://github.com/user-attachments/assets/996d960a-47d5-4d2f-ac76-688b55afba9e" />
+-------------------------------------------------------------------------------------------------------------------------------
+<img width="932" height="689" alt="Image" src="https://github.com/user-attachments/assets/46e76481-b9f8-4a64-9ddf-c302d9ef685e" />
 
 ---
 
