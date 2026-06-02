@@ -17,7 +17,7 @@ An end-to-end machine learning web application that predicts a student's **math 
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](/screenshots/index.png)
+<img width="901" height="572" alt="Image" src="https://github.com/user-attachments/assets/7462edfb-8e2f-46ff-bbaf-01ae7b596ec2" />
 
 ### Prediction Result
 ![Prediction Result 1](screenshots/home1.png)
