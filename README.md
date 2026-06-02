@@ -17,12 +17,11 @@ An end-to-end machine learning web application that predicts a student's **math 
 ## 📸 Screenshots
 
 ### Home Page
-<!-- Add your home page screenshot here -->
-> 📷 _Replace this line with your screenshot: `![Home Page](screenshots/home.png)`_
+[Home Page 1](screenshots/home1.png)
+[Home Page 2](screenshots/home2.png)
 
 ### Prediction Result
-<!-- Add your prediction result screenshot here -->
-> 📷 _Replace this line with your screenshot: `![Prediction Result](screenshots/result.png)`_
+[Prediction Form](screenshots/index.png)
 
 ---
 
