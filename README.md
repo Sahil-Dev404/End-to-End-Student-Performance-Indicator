@@ -17,7 +17,7 @@ An end-to-end machine learning web application that predicts a student's **math 
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/index.png)
+![Home Page](/screenshots/index.png)
 
 ### Prediction Result
 ![Prediction Result 1](screenshots/home1.png)
